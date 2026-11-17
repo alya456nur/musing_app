@@ -58,20 +58,6 @@ TECHNOLOGIES USED
 - audioplayers - Audio playback support.
 - on_audio_query - Access local device music.
 
-PROJECT STRUCTURE
------------------
-
-musing-music-player/
-|
-|-- android/
-|-- ios/
-|-- assets/
-|-- lib/
-|-- test/
-|-- .gitignore
-|-- pubspec.yaml
-|-- README.md
-
 
 GETTING STARTED
 ---------------
