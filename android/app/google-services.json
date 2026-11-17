@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "424883875615",
+    "project_id": "musing-7f04b",
+    "storage_bucket": "musing-7f04b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424883875615:android:a39799f61a485bc5af4a2a",
+        "android_client_info": {
+          "package_name": "com.example.musing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424883875615-eofftrhi9m4perutf0lirpkmg3uouds0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musing_app",
+            "certificate_hash": "d9d8f67a01714ad18e1e1ae7f0ac0e0833df3650"
+          }
+        },
+        {
+          "client_id": "424883875615-o10jm2cs7cat9bv8fqkf0v9pf5l86vil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeiWcaib-Poz-uxIXswYDEPikPExmKaqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424883875615-o10jm2cs7cat9bv8fqkf0v9pf5l86vil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
