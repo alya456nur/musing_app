@@ -79,7 +79,7 @@ INSTALLATION
 
 2. Navigate to the project directory:
 
-   cd musing-music-player
+   cd musing_app
 
 3. Install the required dependencies:
 
